@@ -1,0 +1,7 @@
+Perro,false,true,true
+Gato,false,true,true
+Leon,false,true,true
+Pato,true,true,true
+Conejo,false,true,true
+Mono,false,true,true
+Serpiente,false,false,true

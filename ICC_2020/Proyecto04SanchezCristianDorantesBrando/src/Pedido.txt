@@ -1,0 +1,1 @@
+Nombre:Coco#Cabeza:Conejo,Amarillo#Cuerpo:Mono,Rojo#Patas:Perro,Verdes#Cola:Pato,Blanco
